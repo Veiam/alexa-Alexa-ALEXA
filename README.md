@@ -1,6 +1,6 @@
 # Alexa, play Despacito.
 
-Repo containing Alexa Skill Deployment Packages created during Amazon Alexa Student Developer Challenges in 2017 and Hackathons.
+Repo containing Alexa Skill Deployment Packages created during Amazon Alexa Student Developer Challenges in 2017 and Hackathons 2016-2018.
 
 ## Alphabet Adventure
 
